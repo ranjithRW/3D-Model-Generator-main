@@ -1,0 +1,11 @@
+torch>=1.12.0
+trimesh
+pillow
+numpy
+matplotlib
+scipy
+tqdm
+scikit-image
+imageio
+pyyaml
+git+https://github.com/openai/shap-e.git
